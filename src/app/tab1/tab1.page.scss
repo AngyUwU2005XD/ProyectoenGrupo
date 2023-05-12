@@ -1,0 +1,26 @@
+ion-button{
+    --background: #8de69f;
+    --background-hover: #86be4a;
+    --background-activated: #9ef488;
+    --background-focused: #5ea96a;
+  
+    --color: rgb(21, 35, 29);
+  
+   
+    --border-color: transparent;
+    --border-style: solid;
+    --border-width: 1px;
+  
+    --box-shadow: 0 2px 6px 0 rgba(71, 18, 247, 0.25);
+  
+    --ripple-color: deeppink;
+  
+
+    --outline-offset: 3px;
+  }
+  ion-content{
+    --background: #ccfbd5;
+  }
+  ion-toolbar{
+    --background: #a2e5ae;
+  }
